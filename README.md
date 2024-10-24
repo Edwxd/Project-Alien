@@ -3,7 +3,7 @@
 
 Project Alien is a game that me and a classmate started developing for our final game development project. 
 
-Project description:
+# Project description:
 
 The game is an open-world survival where the main character is trying to survive and destroy all the alien nests that are all around the map. 
 
