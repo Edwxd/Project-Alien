@@ -24,7 +24,9 @@ Titan: high health, slow speed, and normal damage 
 Xeno: high speed, high damage, low health 
 
 The interaction between the main character and the aliens is simple; the main character will be able to melee or shoot at the aliens, while the aliens can only melee attack the main character. This means that aliens will have to get up close to deal damage.
+
 -------------------------------------------------
-NOTE:
+
+# NOTE:
 I decided to keep working on this project alone as game development is the field in which I would like to work in the future, so this is still work in progress as I have a lot to learn to be able to develop it to its full potential. 
  
