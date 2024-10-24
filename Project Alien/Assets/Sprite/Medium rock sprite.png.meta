@@ -1,0 +1,3528 @@
+fileFormatVersion: 2
+guid: defa13e6d3b4bd24696940f5f4e154da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medium rock sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68c3187f6a544542aba3c930e0e30d3
+      internalID: 521043055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6643b101d75a449e7a4ca7d185fa8
+      internalID: -1528495769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a47e409e780ce4c84e405ea3b49c56
+      internalID: 1378684286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b99b05cf5114c4483ae3da0715f5a8
+      internalID: -1221274485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b8f2a69226ec4cb5c3357aa40e352
+      internalID: -34834670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a84908864ac64d84a16ced338211d
+      internalID: 1249058336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334462b72d7b3f4e862573c2b58fd74
+      internalID: 890663798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c17ef16a3bef24a906adedc72b6811
+      internalID: 1518758947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2dd1b6b3730dc4699898a3c935a418
+      internalID: 782256120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998bed0f4c603404b96274f243740d7f
+      internalID: -1292297558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28f82ffb91da104fb5d3b8eb24e09a5
+      internalID: -1496770352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c12a014f2f9c6f4a865e5b61d052932
+      internalID: -496928131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74148bafdda12e84c95c16f0b29db140
+      internalID: 1454709313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 873
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba235ca2a35ec478ed537563d71dda
+      internalID: -1372851488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99126de5a6ba5204dbb4de9035831cab
+      internalID: 1007550357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440693e32478a304cbc192f4c915c373
+      internalID: 1460929926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3922c76be2d7bbc4abd9b12e506f265d
+      internalID: 175496374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7554a2f4434321547923eba1464acb7d
+      internalID: 2103764752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d269bc17753f74485cd7e19ed592fe
+      internalID: 1657731541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a29adeff32ea84d835d923649bc45f
+      internalID: 109999287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f3c9b3a9c6844a9f26c54a3d4fad4
+      internalID: -643363265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72b5e73f973a84a9fae7cef06162d9
+      internalID: 755169970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87a0134a67a074b910a0ae10cbd651
+      internalID: -1715398756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb59af903702d42ad31b75e9040173
+      internalID: 1149084769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca500ccbbc1384fa01cfc4c1b19586
+      internalID: -1408350208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c018bc19373acc6459fc81d57df4007b
+      internalID: 896212841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c8c0a25c6c04c45a0fb8852de126c2
+      internalID: -1095504419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 786
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75277b52c38bb3041a2621270c1cbe95
+      internalID: 1119618434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f895e85f8365248a5b9a04289b261f
+      internalID: -2014202122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647b2d0a9bd24dd40ad389e145f866a1
+      internalID: 1033154875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f69c5151de1e43b47ab2536a11e75
+      internalID: -878018471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868a4ece8b72b0a40b123b28da5f7f07
+      internalID: 292298797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7987a04007064844bb76c8b508ae496
+      internalID: 438221015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fbfa8d58ff1df45ae842d7d29a5ee4
+      internalID: -890965152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54418eabee3651e4387a97b70ddb5072
+      internalID: -444269712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7c0d106c4b8d429567b37debecbf4
+      internalID: -1253377388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b07632066860d64cab1ae65f583d1ee
+      internalID: 1051152477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc54b51a194d234e808274a7bf3d178
+      internalID: 1210597695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e0e36d7fb61a42be0ec4c83978058
+      internalID: 2123673265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece9878c6d2db948a85d22eb650c7b7
+      internalID: 45438248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23ffeafb73d8f499a9d8eab09df867
+      internalID: -616537982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 699
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba87809155d57b48b0bda9b5914b8bd
+      internalID: -1139008510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6989569fe64a49bc6ebb23f5ac38d
+      internalID: 1500005799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195742f2e0c295945b80395d329a0ba9
+      internalID: 1839429817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04c298d44c3d694e99dbe46592631df
+      internalID: 2088494484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c944d32b52ecdc42a60f57190ceee8f
+      internalID: 480694771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137ec0c2f2f796b4f90e1ded0d19765e
+      internalID: -1862613535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9649baecf7d6443ae50d1d3cdfd8ac
+      internalID: -183151876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc4d39c5106334989b46c63eab2db5
+      internalID: 1015611569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb994df30c80f24fa28ccd5d7e3c96b
+      internalID: 905586711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5eb6da5bf1d341bd6c40aae579049
+      internalID: 2117905330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2b0fcf61ec6d42909119bad63b1cd
+      internalID: -1206945964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24646d21fc9124d846083d39383e5c
+      internalID: -1664136994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91116f06fbf87cf44bd68c790e7c6cf3
+      internalID: -807291858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c23fe0ae414cc41a04d0fd1b14a1b9
+      internalID: -1877931343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 612
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72f5f174a3df448abe496b2fe42d91
+      internalID: -1665147713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19befc6eba31cdf4785c2c847b5ff9e8
+      internalID: 1575437074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94786ec630502174a90fcec7b1fa4e12
+      internalID: 2973903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d3131ee9a63c244981c4771094c117
+      internalID: -1017956820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f748bdf637774cbc002781d4d9194
+      internalID: 1976805985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf5659dc8234444aecb2431e0ec1ec
+      internalID: 1698904725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e89a984e4072341b652803e5fc49ac
+      internalID: 1024712359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25685e39dd837b049998dbe5e878a488
+      internalID: -408223516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa14ceb476a76428b335d24e664d33
+      internalID: 794509060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fde8962a9e2f4b8f04b8c7e24d03a
+      internalID: -291583316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe578e09831fe945b46f9b1866f1eb7
+      internalID: 40187498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804e53a479975d409e73a2a6e2d323b
+      internalID: -2144577680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0299d374f97740be11ed1a53becd3
+      internalID: 1353363463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a270c4c7ce347a14a9439acec67e4577
+      internalID: 1921989776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 525
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcada25e47b5a94419e69815c166da2a
+      internalID: 1181972558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416113c5bb387f444a5fc138e01b468a
+      internalID: -1403529179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936606d836f77d47bebe23a522f3fa6
+      internalID: -1748805542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fa5f68bb2adf7469e030741021b03a
+      internalID: -1391752629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a700666b7d23f1343a84505bf2de61ff
+      internalID: 1277604533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3446d1a9630540bbd93bfb193b1d4
+      internalID: 1043147612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef680135a7eb94592a9c89bff396f8
+      internalID: 362197559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593ddee980facc1428b266965eee758d
+      internalID: -1584678658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa876e8f61c424ca7140f674c53024
+      internalID: 999605570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ab4a9f8b2dbf4b815923ec08b12d2
+      internalID: 691722735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbcca4b5e6ad204c8d13aa49cae5fe6
+      internalID: -1621268563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee832e3ca39c643b83e55da34d414b
+      internalID: -1702399728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_81
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acce512df848f6a4999f86a3d3a0b1aa
+      internalID: -181035379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfc3d7a549cc74eb2d22250f8dcf58
+      internalID: 934050506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_83
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 438
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d132c2724ee71428df4630230fd7f8
+      internalID: -849798116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b826ddff02f5a2e4d860887493cbd13a
+      internalID: 1618011183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee78b3341c34134f830da8ae13d90d0
+      internalID: 2062322393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b27270a296f434b9e6e333c2a5d252
+      internalID: 1883403197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe77964c82f204ba843c52fb6ba048
+      internalID: -1260391579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc258f76ac24aa4a80eb6527205d24e
+      internalID: -842060373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662617dd9055b8445967c6a15a81521d
+      internalID: 602878131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9448dc8ef11ade9479e3f40044f1d518
+      internalID: 1322449141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04aa47ae5a767e4791e5f20c3fde0d6
+      internalID: 1349763011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906198046d0d0b408348ac2b88aea13
+      internalID: -105795143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be24d16111a864d8a9593a3544ff3c
+      internalID: -183515730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8183a708f52b74ca17bb1abb4bb04d
+      internalID: 1140469860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_95
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aca12b87a47dd4aa2908cea47e5ee1
+      internalID: 962750831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12cef2fc1cd8c144a056d9441f242e9
+      internalID: -1080105869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_97
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 351
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0a4dde0a11ff42be289bc1827ea39
+      internalID: -1653175904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466a0d1f15814c4891484a23c4cb2c8
+      internalID: -527389068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18582f272190194e8375e84f293bca4
+      internalID: -2079661732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fcf80832ca00a4b9860d2b15c13f0b
+      internalID: 189018048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e0e5ddb834504bbe11663a9e32982
+      internalID: -303389450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a4addc210bef4fa27c761d4425957
+      internalID: -69141433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771278509b0c8c749a3c3917869dcc57
+      internalID: -1423841745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d73ee9f269cb49ac8e639638bada4
+      internalID: 415893740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257421490e30454e953a44979d752f4
+      internalID: 625321826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1fef110db82a4bb21ed0b3d818b85
+      internalID: 156155465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace47195bf135b40b16c611205e8565
+      internalID: -1020175824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236048dfa1e55cc45a5830c8c3eea8fa
+      internalID: 1897099981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_109
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b704386ef19ab43bc9d780db7a0da9
+      internalID: 1073222373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1cdca835e04174dad8d146c703d68c
+      internalID: -1875639048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_111
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 264
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ce55a36851d64e91f2c17d6944667
+      internalID: 396157208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae78d8aa1a5954439872ee299a70edd
+      internalID: 273412361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd63267a12dbe2428c2ad81fef5682a
+      internalID: -2068942334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa1f006fac4394aa5577e61bbc7095
+      internalID: 1817965974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d12754a66ed6c4fbd39334c03e59fc
+      internalID: -382604771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef493484c9b74df45b4dde70eaa53563
+      internalID: 387165941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6bce5fed0916044a0cb21f2be1b775
+      internalID: -1242271570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13210429630d44196c99c0756bcac5
+      internalID: -966355972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa969f1de6cf8014d802c96ed4c7676a
+      internalID: -2023199664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af049b4d36c58468440c0389b1187d
+      internalID: -517051374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855aa19751e045d46b875699b006cdb4
+      internalID: -1486359496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c12dcba9037f49bc6b0284cae9b33
+      internalID: 1727504290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d47ca236358f34a9389ed23f739355
+      internalID: -1241137447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a722d4fb3cdc498d4d2157e592ceb
+      internalID: -553924138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 177
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f82caae8e9ef964da160876335bba40
+      internalID: -397241778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f57d9309f49304597e583cc30d506d
+      internalID: 782377752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe770190aa04d47ba162c1c72ec5b1
+      internalID: 2078565072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f0bd0f15981c847bd05918939f0d8a
+      internalID: 1294159598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116ddb06071ba54bb6d31522386f588
+      internalID: 486319425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bcc0c4b2313d24588c46062723c701
+      internalID: -490998472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8043bbe310d5904691c6c1338b01d2b
+      internalID: 1271735063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9c15068ae438429dcf8741227fc40
+      internalID: -2094646872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1306d9759ba3c4d4ebb340eac6053c60
+      internalID: 335200814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ee5956a547cc469854f225de667c7
+      internalID: 1695589415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415b01a48bf42b4ca340eccc06797ef
+      internalID: -1450308260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca850e1977cbd46981e61d3d8a257f
+      internalID: 1675719100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_137
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88360e0f2080f4daab42cb773aa401
+      internalID: -863779671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bfa62a35a654f41bafb436794c3ab9
+      internalID: 506138555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_139
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 90
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dbb5de92fa14d4abd99995af635a51
+      internalID: 1254179978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1797cc27166e66458ac85bb4b686ca4
+      internalID: -1269452477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56350820981d6c4fb02016481432527
+      internalID: -43449888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93227c5b51d84f4e998a0f13e9b430e
+      internalID: 799478066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3546fa6878abfe24f96d52fa3a66ae58
+      internalID: 1731139072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7268f770044443bacc2d04cb928c1
+      internalID: -1652442022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd280f21b3ca5a84689dae1169e68265
+      internalID: -926150049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9d272b61de394c91aa28bc00ce7f6
+      internalID: -784514334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a71979f3c944ad46870006bf0110194
+      internalID: -145956347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5586827fa9e8e341b0f790a006b120f
+      internalID: -1344498227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_149
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363d267c968ac94496cdfebfb7ee166
+      internalID: -1267590979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_150
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5016642ffa1b44bb2b678f36df0fd7
+      internalID: 546344784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_151
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8100bafeea9f6e4da1e1de1710375ff
+      internalID: -324718845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a7b69f67ce8940b5736ae5d0f6b4e
+      internalID: 495711754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium rock sprite_153
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 3
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507b9b116f8ec046ab6febbf591c1e0
+      internalID: -1224191417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Medium rock sprite_0: 521043055
+      Medium rock sprite_1: -1528495769
+      Medium rock sprite_10: -1496770352
+      Medium rock sprite_100: 189018048
+      Medium rock sprite_101: -303389450
+      Medium rock sprite_102: -69141433
+      Medium rock sprite_103: -1423841745
+      Medium rock sprite_104: 415893740
+      Medium rock sprite_105: 625321826
+      Medium rock sprite_106: 156155465
+      Medium rock sprite_107: -1020175824
+      Medium rock sprite_108: 1897099981
+      Medium rock sprite_109: 1073222373
+      Medium rock sprite_11: -496928131
+      Medium rock sprite_110: -1875639048
+      Medium rock sprite_111: 396157208
+      Medium rock sprite_112: 273412361
+      Medium rock sprite_113: -2068942334
+      Medium rock sprite_114: 1817965974
+      Medium rock sprite_115: -382604771
+      Medium rock sprite_116: 387165941
+      Medium rock sprite_117: -1242271570
+      Medium rock sprite_118: -966355972
+      Medium rock sprite_119: -2023199664
+      Medium rock sprite_12: 1454709313
+      Medium rock sprite_120: -517051374
+      Medium rock sprite_121: -1486359496
+      Medium rock sprite_122: 1727504290
+      Medium rock sprite_123: -1241137447
+      Medium rock sprite_124: -553924138
+      Medium rock sprite_125: -397241778
+      Medium rock sprite_126: 782377752
+      Medium rock sprite_127: 2078565072
+      Medium rock sprite_128: 1294159598
+      Medium rock sprite_129: 486319425
+      Medium rock sprite_13: -1372851488
+      Medium rock sprite_130: -490998472
+      Medium rock sprite_131: 1271735063
+      Medium rock sprite_132: -2094646872
+      Medium rock sprite_133: 335200814
+      Medium rock sprite_134: 1695589415
+      Medium rock sprite_135: -1450308260
+      Medium rock sprite_136: 1675719100
+      Medium rock sprite_137: -863779671
+      Medium rock sprite_138: 506138555
+      Medium rock sprite_139: 1254179978
+      Medium rock sprite_14: 1007550357
+      Medium rock sprite_140: -1269452477
+      Medium rock sprite_141: -43449888
+      Medium rock sprite_142: 799478066
+      Medium rock sprite_143: 1731139072
+      Medium rock sprite_144: -1652442022
+      Medium rock sprite_145: -926150049
+      Medium rock sprite_146: -784514334
+      Medium rock sprite_147: -145956347
+      Medium rock sprite_148: -1344498227
+      Medium rock sprite_149: -1267590979
+      Medium rock sprite_15: 1460929926
+      Medium rock sprite_150: 546344784
+      Medium rock sprite_151: -324718845
+      Medium rock sprite_152: 495711754
+      Medium rock sprite_153: -1224191417
+      Medium rock sprite_16: 175496374
+      Medium rock sprite_17: 2103764752
+      Medium rock sprite_18: 1657731541
+      Medium rock sprite_19: 109999287
+      Medium rock sprite_2: 1378684286
+      Medium rock sprite_20: -643363265
+      Medium rock sprite_21: 755169970
+      Medium rock sprite_22: -1715398756
+      Medium rock sprite_23: 1149084769
+      Medium rock sprite_24: -1408350208
+      Medium rock sprite_25: 896212841
+      Medium rock sprite_26: -1095504419
+      Medium rock sprite_27: 1119618434
+      Medium rock sprite_28: -2014202122
+      Medium rock sprite_29: 1033154875
+      Medium rock sprite_3: -1221274485
+      Medium rock sprite_30: -878018471
+      Medium rock sprite_31: 292298797
+      Medium rock sprite_32: 438221015
+      Medium rock sprite_33: -890965152
+      Medium rock sprite_34: -444269712
+      Medium rock sprite_35: -1253377388
+      Medium rock sprite_36: 1051152477
+      Medium rock sprite_37: 1210597695
+      Medium rock sprite_38: 2123673265
+      Medium rock sprite_39: 45438248
+      Medium rock sprite_4: -34834670
+      Medium rock sprite_40: -616537982
+      Medium rock sprite_41: -1139008510
+      Medium rock sprite_42: 1500005799
+      Medium rock sprite_43: 1839429817
+      Medium rock sprite_44: 2088494484
+      Medium rock sprite_45: 480694771
+      Medium rock sprite_46: -1862613535
+      Medium rock sprite_47: -183151876
+      Medium rock sprite_48: 1015611569
+      Medium rock sprite_49: 905586711
+      Medium rock sprite_5: 1249058336
+      Medium rock sprite_50: 2117905330
+      Medium rock sprite_51: -1206945964
+      Medium rock sprite_52: -1664136994
+      Medium rock sprite_53: -807291858
+      Medium rock sprite_54: -1877931343
+      Medium rock sprite_55: -1665147713
+      Medium rock sprite_56: 1575437074
+      Medium rock sprite_57: 2973903
+      Medium rock sprite_58: -1017956820
+      Medium rock sprite_59: 1976805985
+      Medium rock sprite_6: 890663798
+      Medium rock sprite_60: 1698904725
+      Medium rock sprite_61: 1024712359
+      Medium rock sprite_62: -408223516
+      Medium rock sprite_63: 794509060
+      Medium rock sprite_64: -291583316
+      Medium rock sprite_65: 40187498
+      Medium rock sprite_66: -2144577680
+      Medium rock sprite_67: 1353363463
+      Medium rock sprite_68: 1921989776
+      Medium rock sprite_69: 1181972558
+      Medium rock sprite_7: 1518758947
+      Medium rock sprite_70: -1403529179
+      Medium rock sprite_71: -1748805542
+      Medium rock sprite_72: -1391752629
+      Medium rock sprite_73: 1277604533
+      Medium rock sprite_74: 1043147612
+      Medium rock sprite_75: 362197559
+      Medium rock sprite_76: -1584678658
+      Medium rock sprite_77: 999605570
+      Medium rock sprite_78: 691722735
+      Medium rock sprite_79: -1621268563
+      Medium rock sprite_8: 782256120
+      Medium rock sprite_80: -1702399728
+      Medium rock sprite_81: -181035379
+      Medium rock sprite_82: 934050506
+      Medium rock sprite_83: -849798116
+      Medium rock sprite_84: 1618011183
+      Medium rock sprite_85: 2062322393
+      Medium rock sprite_86: 1883403197
+      Medium rock sprite_87: -1260391579
+      Medium rock sprite_88: -842060373
+      Medium rock sprite_89: 602878131
+      Medium rock sprite_9: -1292297558
+      Medium rock sprite_90: 1322449141
+      Medium rock sprite_91: 1349763011
+      Medium rock sprite_92: -105795143
+      Medium rock sprite_93: -183515730
+      Medium rock sprite_94: 1140469860
+      Medium rock sprite_95: 962750831
+      Medium rock sprite_96: -1080105869
+      Medium rock sprite_97: -1653175904
+      Medium rock sprite_98: -527389068
+      Medium rock sprite_99: -2079661732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

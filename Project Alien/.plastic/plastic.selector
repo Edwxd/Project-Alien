@@ -1,0 +1,4 @@
+repository "OfficialProjectAlien@tfoooo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
